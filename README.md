@@ -1,19 +1,17 @@
-- 👋 Hi, I’m @Nkosinathi825
-- 👀 I’m interested in AI and software development this is because i believe that with the use of software dev we can harnes the power of AI and make it  accessible to people
-- 🌱 I’m currently doing my final year in computer science at wits university
-- 💞️ I’m looking to collaborate on projects that bring about change or  to make life really simple
-- 📫 How to reach me :nkosinathiphiri825@gmail.com
-- 😄 Pronouns: ...MR
-- ⚡ Fun fact: ...
+👋 Hi, I’m Nkosinathi (@Nkosinathi825)
+👀 About Me:
 
-- ### 🔧 Technologies & Tools:
-- Languages: **Python**, **JavaScript**, **C++**
-- Frontend: **React**, **HTML**, **CSS**
-- Backend: **Node.js**, **Express**
-- Databases: **MongoDB**
+I’m passionate about AI and software development. I believe that through software, we can harness the power of AI to solve real-world problems and make cutting-edge technology more accessible to everyone.
 
+    🎓 Currently, I’m completing my final year in Computer Science at Wits University.
+    💡 I'm always open to collaborating on projects that drive change or simplify everyday life through technology.
+    📫 Feel free to reach out to me at nkosinathiphiri825@gmail.com.
+    😄 Pronouns: Mr.
+  
 
-<!---
-Nkosinathi825/Nkosinathi825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies & Tools:
+
+    Languages: Python, JavaScript, C++
+    Frontend: React, HTML, CSS
+    Backend: Node.js, Express
+    Databases: MongoDB
